@@ -1,0 +1,21 @@
+﻿  Entity.cpp
+  Main.cpp
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(19,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(18,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(83,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(82,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(80,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(79,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(117,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(117,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(148,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(148,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(148,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Quadtree.cpp
+E:\GameDev\Projects\QuadTree\QuadTree\Main.cpp(148,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 114 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  QuadTree.vcxproj -> E:\GameDev\Projects\QuadTree\Release\QuadTree.exe
